@@ -1,0 +1,17 @@
+node_modules/
+dist/
+out/
+coverage/
+*.log
+.env
+.env.*
+
+.claude/settings.local.json
+
+obsidian/.obsidian/
+obsidian/.trash/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
